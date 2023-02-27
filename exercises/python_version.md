@@ -9,7 +9,7 @@
 </style>
 
 <div id="center">
-    <iframe class="resizable" src="https://uflorida-my.sharepoint.com/personal/a_verma1_ufl_edu/_layouts/15/Doc.aspx?sourcedoc={b145d95d-7b40-4fe6-a5da-4225af19fb5b}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="1024px" height="576px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+    <iframe class="resizable" src="https://docs.google.com/presentation/d/e/2PACX-1vRs4qvKAWrpAqbxwUBzhSWsP1RaamXtedCWV4TqrRJbahy0tWE17Ff22GpzSco_Xg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1024px" height="576px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 <div class="resizable nowidth" style="width: 1px; height: 576px;"></div> 
 
