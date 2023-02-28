@@ -16,7 +16,7 @@
 <script>
 function resizer() {
     const LENGTH_RATIO = 9.0/16.0;
-    let width = window.innerWidth;
+    let width = document.body.clientWidth;
     let height = 576;
 
     if (width < 1024) {
