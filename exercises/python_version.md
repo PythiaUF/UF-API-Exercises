@@ -6,12 +6,15 @@
     transform: translate(-50%, 0);
     position: absolute;
 }
+.novis {
+    opacity: 0;
+}
 </style>
 
 <div id="center">
     <iframe class="resizable" src="https://docs.google.com/presentation/d/e/2PACX-1vRs4qvKAWrpAqbxwUBzhSWsP1RaamXtedCWV4TqrRJbahy0tWE17Ff22GpzSco_Xg/embed?start=false&loop=false&delayms=60000" frameborder="0" width="1024px" height="576px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
-<div class="resizable nowidth" style="width: 1px; height: 576px;"></div> 
+<div class="resizable nowidth novis" style="width: 1px; height: 576px;"></div> 
 
 <script>
 function resizer() {
