@@ -16,11 +16,11 @@
 <script>
 function resizer() {
     const LENGTH_RATIO = 9.0/16.0;
-    let width = screen.width;
+    let width = window.innerWidth;
     let height = 576;
 
     if (width < 1024) {
-        height = Math.round(screen.width * LENGTH_RATIO);
+        height = Math.round(width * LENGTH_RATIO);
     } else {
         width = 1024;
     }
